@@ -5,5 +5,5 @@ def my_each(array) # put argument(s) here
     yield
     i += 1
   end
-  return array
+  array
 end
